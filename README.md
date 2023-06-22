@@ -1,2 +1,14 @@
 # GNS-Liquidity
- This repository contains the code used in the GNS Liquidity Analysis
+This repo is dedicated to store the code used in the GNS Liquidity Project
+---
+Files:
+
+- **onchain_data.py:** It contains the Flipside queries used to analyze the data utilizing Python, and the function to retrieve current crypto prices from Coingecko
+- **query_data.py:** It Contains functions to retrieve Flipside data and the main function of the slippage simulator
+- **data-analysis.ipynb:** notebook to run some analysis
+- **app.py** The slippage simulator app built in Dash Plolty
+- **analytics**: folder of some dash plolty features that I help to develop in previous jobs
+
+You can find the dashboards used in the project:
+- Dune Dashboard: https://dune.com/dolfo_lima/gns-liquidity
+- Flipside Dashboard: https://flipsidecrypto.xyz/Rodolfo-Lima/slippage-in-gns-pools-DGxFD4
