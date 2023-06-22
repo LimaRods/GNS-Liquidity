@@ -9,6 +9,10 @@ Files:
 - **app.py** The slippage simulator app built in Dash Plolty
 - **analytics**: folder of some dash plolty features that I help to develop in previous jobs
 
+If you want to run the app locally, run the following command:
+`pip install -r requirements.txt`
+`python3 app.py`
+
 You can find the dashboards used in the project:
 - Dune Dashboard: https://dune.com/dolfo_lima/gns-liquidity
 - Flipside Dashboard: https://flipsidecrypto.xyz/Rodolfo-Lima/slippage-in-gns-pools-DGxFD4
