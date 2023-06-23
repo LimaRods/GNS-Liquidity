@@ -5,7 +5,7 @@ Files:
 
 - **onchain_data.py:** It contains the Flipside queries used to analyze the data utilizing Python, and the function to retrieve current crypto prices from Coingecko
 - **query_data.py:** It Contains functions to retrieve Flipside data and the main function of the slippage simulator
-- **data-analysis.ipynb:** notebook to run some analysis
+- **data-analysis.ipynb:** notebook to run some analyses
 - **app.py** The slippage simulator app built in Dash Plolty
 - **analytics**: folder of some dash plolty features that I help to develop in previous jobs
 
