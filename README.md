@@ -7,7 +7,7 @@ Files:
 - **query_data.py:** It Contains functions to retrieve Flipside data and the main function of the slippage simulator
 - **data-analysis.ipynb:** notebook to run some analyses
 - **app.py** Slippage simulator app built in Dash Plolty
-- **analytics**: folder of some dash plolty features that I help to develop in previous jobs
+- **analytics**: folder of some dash plolty features that I helped to develop in previous jobs
 
 If you want to run the app locally, run the following command:
 `pip install -r requirements.txt`
