@@ -2,7 +2,7 @@ import pandas as pd
 from flipside import Flipside
 
 # Manual Input
-sdk_api_key= '33552129-3743-4219-8d00-ebe02f43878b'
+sdk_api_key= 'API_KEY'
 
 #Creating a class to query Flipside Data
 class Query:
