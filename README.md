@@ -1,6 +1,8 @@
 # GNS-Liquidity
 This repo is dedicated to store the code used in the GNS Liquidity Project
 ---
+Link of the project: https://rodolfo-projects.notion.site/Market-Challenge-a202a2a8513d48788c29078f6e057fc4
+
 Files:
 
 - **onchain_data.py:** It contains the Flipside queries used to analyze the data utilizing Python, and the function to retrieve current crypto prices from Coingecko
