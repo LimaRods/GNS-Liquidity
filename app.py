@@ -25,7 +25,7 @@ server = app.server
 
 app.layout = html.Div([
     html.Div(id='main-div', children=[
-        du.generate_navbar("KeyRock Challenge"),
+        du.generate_navbar("Keyrock Challenge"),
 
         # -------- SIMULATOR  ----------------------------------------------- #
         html.Div(children=[
